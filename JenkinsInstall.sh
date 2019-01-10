@@ -4,5 +4,6 @@ sudo apt install openjdk-8-jre-headless
 sudo apt install openjdk-8-jdk
 sudo apt-get update
 sudo apt-get install jenkins
+sudo apt install maven
 #sudo ufw allow 8080
 
